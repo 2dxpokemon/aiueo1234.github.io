@@ -1,0 +1,28 @@
+@media (max-width: 375px) {
+
+  .main_title p {
+
+  }
+  .desc p {
+    font-size: 18px;
+  }
+  .subcontent {
+    margin-bottom: 0;
+  }
+
+  .main_content button {
+    width: 200px;
+    height: 120px;
+    font-size: 30px;
+  }
+  #stt {
+    font-size: 60px;
+  }
+  .sub {
+    font-size: 35px;
+
+  }
+  .sub_content{
+    margin-bottom: 0;
+  }
+}
